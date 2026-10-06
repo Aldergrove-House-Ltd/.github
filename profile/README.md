@@ -12,4 +12,4 @@ Longevity over novelty. Substance over effect.
 
 ### Colophon
 
-Aldergrove · England · Est. MMXXV
+Aldergrove · England · Est. MMXXVI

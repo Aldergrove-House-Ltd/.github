@@ -1,6 +1,6 @@
 # .github
 
-Organisation-wide defaults for Aldergrove-House-Ltd.
+Organisation-wide defaults for Aldergrove House Limited.
 
 - `profile/README.md` renders as the public landing at
   [github.com/Aldergrove-House-Ltd](https://github.com/Aldergrove-House-Ltd).
